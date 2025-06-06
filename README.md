@@ -1,1 +1,1 @@
-# projeto-10
+🤖 Café robotizado em LA: EDA de restaurantes em LA para modelar viabilidade de cafeteria com garçons-robôs. Métricas: densidade concorrente, perfil de demanda e lifecycle de negócios similares. Saída: pitch data-driven para investidores.
